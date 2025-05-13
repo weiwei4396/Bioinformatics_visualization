@@ -3,7 +3,7 @@ I'd like to organize some R code I've used for visualization to make it easier t
 
 ## Content
 - [Barplot](#Barplot) (柱状图)
-    + [Bulk data](#Bulk-data)
-        * [Step1 Mapping of the fastq files with minimap2](#Step1-Mapping-of-the-fastq-files-with-minimap2)
+    + [Stacked](#Stacked) (堆积柱状图)
+
 
 
