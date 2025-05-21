@@ -11,12 +11,15 @@ I'd like to organize some R code I've used for visualization to make it easier t
 
 
 
-
+## Barplot
 
 
 
 
 ## LineChart
+
+
+
 
 
 
