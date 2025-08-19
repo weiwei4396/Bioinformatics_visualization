@@ -16,24 +16,26 @@ I'd like to organize some R code I've used for visualization to make it easier t
 
 
 ## 1.Barplot
+### Stacked
 <details>
 <summary>📖 picture&file </summary>
 <b>Barplot-1.ipynb<b>
-<b>Stacked<b>
-
-
-
-
-<b>Layered<b>
 
 </details>
 
+### Layered
+<details>
+<summary>📖 picture&file </summary>
+<b>Barplot-1.ipynb<b>
+
+</details>
+
+
 ## 2.Scatterplot
+### Scatterlineplot
 <details>
 <summary>📖 picture&file </summary>
 <b>Scatterplot-2.ipynb<b>
-<b>Scatterlineplot<b>
-
 
 </details>
 
