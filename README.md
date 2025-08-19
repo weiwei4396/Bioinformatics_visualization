@@ -15,7 +15,7 @@ I'd like to organize some R code I've used for visualization to make it easier t
 
 
 
-## 1.Barplot
+## 1. Barplot
 ### Stacked
 <details>
 <summary>📖 picture&file </summary>
@@ -31,7 +31,7 @@ I'd like to organize some R code I've used for visualization to make it easier t
 </details>
 
 
-## 2.Scatterplot
+## 2. Scatterplot
 ### Scatterlineplot
 <details>
 <summary>📖 picture&file </summary>
@@ -41,10 +41,10 @@ I'd like to organize some R code I've used for visualization to make it easier t
 
 
 
-## 3.Boxplot
+## 3. Boxplot
 
 
-## 4.Densityplot
+## 4. Densityplot
 ### 2Ddensity
 
 
