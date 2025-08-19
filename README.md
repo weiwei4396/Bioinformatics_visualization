@@ -17,7 +17,10 @@ I'd like to organize some R code I've used for visualization to make it easier t
 
 ## 1.Barplot
 ### Stacked
+<details>
+<summary>📖 picture&file </summary>
 
+</details>
 
 ### Layered
 
