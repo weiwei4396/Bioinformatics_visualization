@@ -18,14 +18,14 @@ I'd like to organize some R code I've used for visualization to make it easier t
 ## 1.Barplot
 ### Stacked
 <details>
-<summary>📖 picture&file </summary>
+<summary> </summary>
 <b>Barplot-1.ipynb<b>
 
 </details>
 
 ### Layered
 <details>
-<summary>📖 picture&file </summary>
+<summary> </summary>
 <b>Barplot-1.ipynb<b>
 
 </details>
@@ -35,7 +35,7 @@ I'd like to organize some R code I've used for visualization to make it easier t
 ## 2.Scatterplot
 ### Scatterlineplot
 <details>
-<summary>📖 picture&file </summary>
+<summary> </summary>
 <b>Scatterplot-2.ipynb<b>
 
 </details>
@@ -44,7 +44,7 @@ I'd like to organize some R code I've used for visualization to make it easier t
 <a name="Boxplot"></a>
 ## 3.Boxplot
 <details>
-<summary>📖 picture&file </summary>
+<summary> </summary>
 <b>Boxplot-3.ipynb<b>
 
 </details>
@@ -54,7 +54,7 @@ I'd like to organize some R code I've used for visualization to make it easier t
 ## 4.Densityplot
 ### 2Ddensity
 <details>
-<summary>📖 picture&file </summary>
+<summary> </summary>
 <b>Densityplot-4.ipynb<b>
 
 </details>
