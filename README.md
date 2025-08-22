@@ -10,6 +10,8 @@ I'd like to organize some R code I've used for visualization to make it easier t
 - 3.[Boxplot](#Boxplot) (箱线图)
 - 4.[Densityplot](#Densityplot) (密度图)
     + [2Ddensity](#2Ddensity) (2D密度图)
+- 5.[Heatmap](#Heatmap) (热图)
+- 6.[Radar](#Radar) (雷达图)
 
 
 
@@ -59,6 +61,23 @@ I'd like to organize some R code I've used for visualization to make it easier t
 
 </details>
 
+
+## 5.Heatmap
+<details>
+<summary> </summary>
+<b>Heatmap-5.ipynb<b>
+
+</details>
+
+
+
+
+## 6.Radar
+<details>
+<summary> </summary>
+<b>Radar-6.ipynb<b>
+
+</details>
 
 
 
