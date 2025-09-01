@@ -9,6 +9,8 @@ I'd like to organize some R code I've used for visualization to make it easier t
 - 2.[Scatterplot](#Scatterplot) (散点图)
     + [Scatterlineplot](#Scatterlineplot) (散点折线图)  
 - 3.[Boxplot](#Boxplot) (箱线图)
+    + [Ordinary](#Ordinary) (普通箱线图)
+    + [Layered](#Layered) (分层箱线图)
 - 4.[Densityplot](#Densityplot) (密度图)
     + [2Ddensity](#2Ddensity) (2D密度图)
 - 5.[Heatmap](#Heatmap) (热图)
