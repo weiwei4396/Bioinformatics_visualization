@@ -58,11 +58,24 @@ I'd like to organize some R code I've used for visualization to make it easier t
 
 <a name="Boxplot"></a>
 ## 3.Boxplot
+
+### Ordinary
 <details>
 <summary> </summary>
 <b>boxplot-3.ipynb<b>
 
 </details>
+
+
+
+### Layered
+<details>
+<summary> </summary>
+<b>boxplot-3.ipynb<b>
+
+</details>
+
+
 
 
 <a name="Densityplot"></a>
