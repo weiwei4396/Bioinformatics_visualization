@@ -3,6 +3,7 @@ I'd like to organize some R code I've used for visualization to make it easier t
 
 ## Content
 - 1.[Barplot](#Barplot) (柱状图)
+    + [Ordinary](#Ordinary) (普通柱状图)
     + [Stacked](#Stacked) (堆积柱状图)
     + [Layered](#Layered) (分层柱状图)
 - 2.[Scatterplot](#Scatterplot) (散点图)
@@ -18,6 +19,16 @@ qqq
 
 <a name="Barplot"></a>
 ## 1.Barplot
+### Ordinary
+<details>
+<summary> </summary>
+<b>barplot-1.ipynb<b>
+
+
+
+</details>
+
+
 ### Stacked
 <details>
 <summary> </summary>
@@ -28,7 +39,7 @@ qqq
 ### Layered
 <details>
 <summary> </summary>
-<b>Barplot-1.ipynb<b>
+<b>barplot-1.ipynb<b>
 
 </details>
 
